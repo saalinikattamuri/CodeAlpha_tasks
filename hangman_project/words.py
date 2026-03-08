@@ -1,0 +1,1 @@
+word_list = ["apple", "tiger", "chair", "plant", "bread"]
